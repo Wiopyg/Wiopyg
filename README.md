@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-https://i.pinimg.com/originals/79/f0/f4/79f0f43d243ee729faa46e734516eadc.gif
+![gif](https://i.pinimg.com/originals/79/f0/f4/79f0f43d243ee729faa46e734516eadc.gif)
 
 <!--
 **Wiopyg/Wiopyg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
